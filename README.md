@@ -2,7 +2,7 @@
     <img src="https://opensouth.io/_themes/gouvfr/img/open_south_logo.svg?_=3.2.5.dev0">
 </p>
 <p align="center">
-    <i>⚙️ Udata customizations for data.public.lu made by Etalab ⚙️</i>
+    <i>⚙️ Open South customizations for opensouth.io ⚙️</i>
     <br>
     <br>
     <img src="https://img.shields.io/github/contributors/etalab/udata-front">
