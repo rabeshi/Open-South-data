@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="[https://user-images.githubusercontent.com/60264344/134811326-27109632-f653-4025-9786-482824635994.png](https://opensouth.io/_themes/gouvfr/img/open_south_logo.svg?_=3.2.5.dev0)">
+    <img src="https://opensouth.io/_themes/gouvfr/img/open_south_logo.svg?_=3.2.5.dev0">
 </p>
 <p align="center">
     <i>⚙️ Udata customizations for data.public.lu made by Etalab ⚙️</i>
